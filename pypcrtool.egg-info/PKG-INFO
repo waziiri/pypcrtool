@@ -1,3 +1,23 @@
+Metadata-Version: 2.1
+Name: pypcrtool
+Version: 1.1.1
+Summary: A Python package for In silico PCR and primer verification.
+Home-page: https://github.com/waziiri/pypcrtool
+Author: Ibrahim Zubairu Waziri, Mustapha Ibrahim Usman, Zainab Ali Dandalma
+Author-email: biotechizwaziri@gmail.com, musteengumel@polac.edu.ng, zainabalidandalma92@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/waziiri/pypcrtool
+Keywords: in silico PCR,primer specificity,gel electrophoresis,DNA amplification,bioinformatics,computational biology
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
 # PyPCRtool
 
 ## 1. Introduction
